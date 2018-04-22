@@ -25,9 +25,9 @@ class Header
 // F3 - Loading Screen
 // Credits: Please see the F3 online manual (http://www.ferstaberinde.com/f3/en/)
 
-onLoadName = "*** Insert mission name here. ***";
-onLoadMission = "Made with the F3_CA Mission Development Framework";
-author = "*** Insert mission author name here. ***";
+onLoadName = "Operation Steel Duck";
+onLoadMission = "*quacks metallically*";
+author = "Bubbus";
 loadScreen = "ca_logo_large.jpg";
 
 // ============================================================================================
@@ -164,8 +164,8 @@ class CfgDebriefing
 {
 	class End1
 	{
-		title = "Ending #1";
-		subtitle = "";
+		title = "Successful patrol";
+		subtitle = "Another day for the boat boys.";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -174,8 +174,8 @@ class CfgDebriefing
 
 	class End2
 	{
-		title = "Ending #2";
-		subtitle = "";
+		title = "Returning to base";
+		subtitle = "Let's skip the next 10 minutes of that engine noise shall we";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -184,8 +184,8 @@ class CfgDebriefing
 
 	class End3
 	{
-		title = "Ending #3";
-		subtitle = "";
+		title = "All boats lost";
+		subtitle = "All units ordered to swim home.";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
@@ -194,8 +194,8 @@ class CfgDebriefing
 
 	class End4
 	{
-		title = "Ending #4";
-		subtitle = "";
+		title = "All units lost";
+		subtitle = "At least the boats are fine...?";
 		description = "Please post to the AAR thread!";
 		// pictureBackground = "";
 		// picture = "";
