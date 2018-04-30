@@ -411,6 +411,11 @@ switch (_typeofUnit) do
 		_unit setUnitLoadout [["rhs_weap_aks74un","rhs_acc_pgs64_74un","","",["hlc_30Rnd_545x39_t_ak",30],[],""],["rhs_weap_rpg7","","","",["rhs_rpg7_PG7V_mag",1],[],""],[],["LOP_U_AM_Fatigue_03",[["ACE_fieldDressing",10],["ACE_morphine",10],["ACRE_PRC343",1],["ACE_bloodIV_500",1],["ACE_epinephrine",1],["rhs_mag_rgd5",1,1],["rhs_30Rnd_545x39_AK",6,30]]],["V_LegStrapBag_black_F",[]],["rhs_rpg_empty",[["rhs_rpg7_PG7V_mag",2,1],["rhs_rpg7_OG7V_mag",2,1]]],"H_ShemagOpen_tan","G_Shades_Black",[],["ItemMap","","","ItemCompass","",""]];
 	};
 	
+	case "sam":
+	{
+		_unit setUnitLoadout [["rhs_weap_aks74un","rhs_acc_pgs64_74un","","",["hlc_30Rnd_545x39_t_ak",30],[],""],["rhs_weap_fim92","","","",["rhs_fim92_mag",1],[],""],[],["LOP_U_AM_Fatigue_04_5",[["ACE_fieldDressing",10],["ACE_morphine",10],["ACRE_PRC343",1],["ACE_bloodIV_500",1],["ACE_epinephrine",1],["rhs_mag_rgd5",1,1],["rhs_30Rnd_545x39_AK",6,30]]],["V_LegStrapBag_black_F",[]],["rhs_rpg_empty",[["rhs_fim92_mag",1,1]]],"H_ShemagOpen_tan","G_Shades_Black",[],["ItemMap","","","ItemCompass","",""]];
+	};
+	
 	case "med":
 	{
 		_unit setUnitLoadout [["rhs_weap_aks74un","rhs_acc_pgs64_74un","","",["hlc_30Rnd_545x39_t_ak",30],[],""],[],[],["LOP_U_AM_Fatigue_04",[["ACE_fieldDressing",5],["ACE_morphine",5],["ACE_epinephrine",1],["ACRE_PRC343",1],["ACRE_PRC152",1],["ACE_bloodIV",1],["rhs_mag_rdg2_white",2,1],["rhs_30Rnd_545x39_AK",6,30]]],[],["rhs_medic_bag",[["ACE_fieldDressing",18],["ACE_bloodIV",5],["ACE_epinephrine",8],["ACE_morphine",18],["ACE_Banana",1]]],"H_ShemagOpen_khk","rhsusf_shemagh2_tan",[],["ItemMap","","","ItemCompass","",""]];

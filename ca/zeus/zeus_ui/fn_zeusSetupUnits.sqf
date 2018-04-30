@@ -91,8 +91,13 @@ _units =
 			],
 			
 			[
-				"RPG lad",
+				"RPG gent",
 				["mat"]
+			],
+			
+			[
+				"SAM man",
+				["sam"]
 			],
 		
 			[
